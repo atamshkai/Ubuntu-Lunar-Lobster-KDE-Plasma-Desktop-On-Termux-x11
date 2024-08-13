@@ -2,7 +2,7 @@
 
 This is a preinstalled Ubuntu-Linux Distro with KDE Plasma Desktop.For Android 12 & 13,before you install it,disable phantom process killer. 
 
-[Watch Video Here](https://youtu.be/UxmQSETvAOc) 
+[Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main)
 
 ## Preview ![](https://raw.githubusercontent.com/atamshkai/Ubuntu-Lunar-Lobster-KDE-Plasma-Desktop-On-Termux-x11/main/ubuntu-lunar-kde.png) 
 
